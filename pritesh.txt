@@ -1,3 +1,4 @@
 Dr. Pritesh Patel
 GBC
 TORONTO
+AWSTemplateFormatVersion: "2010-09-09"
